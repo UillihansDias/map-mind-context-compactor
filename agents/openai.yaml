@@ -1,0 +1,7 @@
+interface:
+  display_name: "Map Mind Context Compactor"
+  short_description: "Validated handoffs and resume briefs"
+  default_prompt: "Use $map-mind-context-compactor to create a source-grounded handoff packet with validated next actions."
+
+policy:
+  allow_implicit_invocation: true
